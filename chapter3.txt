@@ -1,0 +1,2 @@
+Now i will add somoe data to chapter3.txt and i will commit chapter2 and chapter3 bot together and notice one thing that master or the head is at the latest commit.
+One more thing, when you commit all files of staging area are commited at once.
